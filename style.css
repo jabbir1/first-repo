@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h4, h3{
+    text-align: center;
+    display: block;
+}
+strong{
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+.article{
+    width: 800px;
+    margin: 20px;
+    margin-left: 250px;
+    border:gray solid 2px;
+    padding: 10px;
+    background-color: rgb(243, 243, 243);
+}
+.img{
+    width: 500px;
+    height: 250px;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+p{
+    width: 750px;
+}
+button{
+    padding: 5px;
+    margin-left: 610px;
+}
